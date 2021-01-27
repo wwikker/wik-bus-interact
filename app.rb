@@ -4,9 +4,7 @@ require 'nokogiri'
 require 'json'
 
 
-slack_api_key = 
-aws_access_key_id = 
-aws_secret_access_key = 
+aws_access_key_id =  AKIASAI5KDNJK6TQKVFK
 
 
 # Handle Slack's slash command queries
