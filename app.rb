@@ -3,9 +3,8 @@ require 'httparty'
 require 'nokogiri'
 require 'json'
 
-
-aws_access_key_id =  AKIASAI5KDNJJGFHVAF7 
-
+aws_access_key_id  = "AKIASAI5KDNJG64Z5GUJ"
+aws_secret_access_key  = "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"
 
 # Handle Slack's slash command queries
 post '/' do
